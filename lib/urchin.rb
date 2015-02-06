@@ -1,5 +1,1 @@
-class Urchin
-  def self.hi
-    puts 'hello world!'
-  end
-end
+require 'urchin/utm_helper'
